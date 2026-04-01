@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "category": "edebiyat",
+    "question": "'Suç ve Ceza' romanının yazarı kimdir?",
+    "options": ["Lev Tolstoy", "Fyodor Dostoyevski", "Anton Çehov", "İvan Turgenyev"],
+    "correct": 1,
+    "explanation": "Suç ve Ceza, Fyodor Dostoyevski'nin 1866 yılında yazdığı, modern psikolojik romanın öncüsü kabul edilen eseridir."
+  },
+  {
+    "id": 2,
+    "category": "edebiyat",
+    "question": "'Tutunamayanlar' romanını kim yazmıştır?",
+    "options": ["Yaşar Kemal", "Oğuz Atay", "Orhan Pamuk", "Ahmet Hamdi Tanpınar"],
+    "correct": 1,
+    "explanation": "Tutunamayanlar, Oğuz Atay'ın 1972'de yayımlanan ve Türk postmodern edebiyatının başlangıcı kabul edilen romanıdır."
+  },
+  {
+    "id": 3,
+    "category": "tarih",
+    "question": "Fransız Devrimi hangi yılda gerçekleşmiştir?",
+    "options": ["1776", "1789", "1804", "1815"],
+    "correct": 1,
+    "explanation": "Fransız Devrimi 1789'da Bastille Hapishanesi'nin basılmasıyla başlamıştır. Modern demokrasinin temel taşlarından biridir."
+  },
+  {
+    "id": 4,
+    "category": "tarih",
+    "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+    "options": ["1299", "1453", "1492", "1517"],
+    "correct": 1,
+    "explanation": "Fatih Sultan Mehmet, 1453'te İstanbul'u fethederek Bizans İmparatorluğu'na son vermiş ve Orta Çağ'ın bitişini simgelemiştir."
+  },
+  {
+    "id": 5,
+    "category": "ekonomi",
+    "question": "Petrol fiyatlarının yükselmesi genellikle altın fiyatlarını nasıl etkiler?",
+    "options": ["Düşürür", "Yükseltir", "Etkilemez", "Ters orantılıdır"],
+    "correct": 1,
+    "explanation": "Petrol fiyatları yükseldiğinde enflasyon beklentisi artar, yatırımcılar güvenli liman olan altına yönelir ve altın fiyatı genellikle yükselir."
+  },
+  {
+    "id": 6,
+    "category": "ekonomi",
+    "question": "ABD Merkez Bankası (Fed) faiz artırdığında dolar genellikle ne olur?",
+    "options": ["Değer kaybeder", "Değer kazanır", "Değişmez", "Altın ile aynı yönde hareket eder"],
+    "correct": 1,
+    "explanation": "Fed faiz artırdığında dolar mevduatları daha cazip hale gelir, küresel sermaye dolara yönelir ve dolar değer kazanır."
+  },
+  {
+    "id": 7,
+    "category": "teknoloji",
+    "question": "GPT (Generative Pre-trained Transformer) modellerini geliştiren şirket hangisidir?",
+    "options": ["Google", "OpenAI", "Meta", "Microsoft"],
+    "correct": 1,
+    "explanation": "GPT modelleri OpenAI tarafından geliştirilmiştir. ChatGPT, 2022'de piyasaya sürülerek yapay zeka devrimini başlatmıştır."
+  },
+  {
+    "id": 8,
+    "category": "teknoloji",
+    "question": "Claude yapay zeka modelini geliştiren şirket hangisidir?",
+    "options": ["OpenAI", "Google DeepMind", "Anthropic", "Meta AI"],
+    "correct": 2,
+    "explanation": "Claude, Anthropic tarafından geliştirilmiştir. Anthropic, yapay zeka güvenliği üzerine odaklanan bir şirkettir."
+  },
+  {
+    "id": 9,
+    "category": "siyaset",
+    "question": "Birleşmiş Milletler Güvenlik Konseyi'nde veto yetkisine sahip kaç ülke vardır?",
+    "options": ["3", "5", "7", "10"],
+    "correct": 1,
+    "explanation": "BM Güvenlik Konseyi'nin 5 daimi üyesi (ABD, Rusya, Çin, İngiltere, Fransa) veto yetkisine sahiptir."
+  },
+  {
+    "id": 10,
+    "category": "siyaset",
+    "question": "NATO hangi yılda kurulmuştur?",
+    "options": ["1945", "1949", "1955", "1961"],
+    "correct": 1,
+    "explanation": "NATO (Kuzey Atlantik Antlaşması Örgütü), 1949'da Soğuk Savaş döneminde Sovyetler Birliği'ne karşı kurulmuştur."
+  },
+  {
+    "id": 11,
+    "category": "genel_kultur",
+    "question": "Nobel Ödülleri'nin kurucusu Alfred Nobel hangi icadıyla tanınır?",
+    "options": ["Telefon", "Dinamit", "Radyo", "Ampul"],
+    "correct": 1,
+    "explanation": "Alfred Nobel dinamiti icat etmiştir. Gazetede 'Ölüm Tüccarı Öldü' başlığını görünce Nobel Ödülleri'ni kurma kararı almıştır."
+  },
+  {
+    "id": 12,
+    "category": "genel_kultur",
+    "question": "Altın Palmiye ödülü hangi film festivalinde verilir?",
+    "options": ["Venedik", "Berlin", "Cannes", "Toronto"],
+    "correct": 2,
+    "explanation": "Altın Palmiye, Cannes Film Festivali'nin en büyük ödülüdür. Türk yönetmen Nuri Bilge Ceylan 2014'te bu ödülü kazanmıştır."
+  },
+  {
+    "id": 13,
+    "category": "edebiyat",
+    "question": "Zülfü Livaneli'nin 37 dile çevrilen romanı hangisidir?",
+    "options": ["Serenad", "Mutluluk", "Kardeşimin Hikayesi", "Son Ada"],
+    "correct": 1,
+    "explanation": "Mutluluk (2002), Zülfü Livaneli'nin en çok bilinen romanıdır. Töre, kadın hakları ve Türkiye'nin farklı yüzlerini anlatır."
+  },
+  {
+    "id": 14,
+    "category": "tarih",
+    "question": "Soğuk Savaş hangi olayla sona ermiştir?",
+    "options": ["Küba Füze Krizi", "Vietnam Savaşı'nın bitişi", "Sovyetler Birliği'nin dağılması", "Berlin Duvarı'nın yıkılması"],
+    "correct": 2,
+    "explanation": "Soğuk Savaş, 1991'de Sovyetler Birliği'nin dağılmasıyla resmen sona ermiştir. Berlin Duvarı'nın yıkılması (1989) ise sembolik son olarak kabul edilir."
+  },
+  {
+    "id": 15,
+    "category": "ekonomi",
+    "question": "Enflasyon yükseldiğinde merkez bankaları genellikle ne yapar?",
+    "options": ["Faiz düşürür", "Para basar", "Faiz artırır", "Döviz satar"],
+    "correct": 2,
+    "explanation": "Merkez bankaları enflasyonu kontrol etmek için faiz artırır. Yüksek faiz, borçlanmayı pahalılaştırarak talebi ve dolayısıyla fiyatları düşürmeyi amaçlar."
+  },
+  {
+    "id": 16,
+    "category": "teknoloji",
+    "question": "Transformer mimarisi ilk olarak hangi makalede tanıtılmıştır?",
+    "options": ["ImageNet", "Attention Is All You Need", "BERT Paper", "AlphaGo Paper"],
+    "correct": 1,
+    "explanation": "2017'de Google araştırmacılarının yayımladığı 'Attention Is All You Need' makalesi, GPT ve BERT gibi tüm modern dil modellerinin temelini oluşturmuştur."
+  },
+  {
+    "id": 17,
+    "category": "genel_kultur",
+    "question": "Şampiyonlar Ligi'ni en çok kazanan kulüp hangisidir?",
+    "options": ["Barcelona", "AC Milan", "Real Madrid", "Bayern Münih"],
+    "correct": 2,
+    "explanation": "Real Madrid, 15 Şampiyonlar Ligi kupasıyla açık ara en başarılı kulüptür."
+  },
+  {
+    "id": 18,
+    "category": "siyaset",
+    "question": "Avrupa Birliği'nin merkezi nerededir?",
+    "options": ["Paris", "Berlin", "Brüksel", "Strazburg"],
+    "correct": 2,
+    "explanation": "AB'nin ana kurumları Brüksel'dedir (Komisyon ve Konsey). Avrupa Parlamentosu ise Strazburg ve Brüksel arasında çalışır."
+  },
+  {
+    "id": 19,
+    "category": "edebiyat",
+    "question": "Nobel Edebiyat Ödülü kazanan tek Türk yazar kimdir?",
+    "options": ["Yaşar Kemal", "Nazım Hikmet", "Orhan Pamuk", "Zülfü Livaneli"],
+    "correct": 2,
+    "explanation": "Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazardır."
+  },
+  {
+    "id": 20,
+    "category": "tarih",
+    "question": "Marie Curie kaç Nobel Ödülü kazanmıştır?",
+    "options": ["1", "2", "3", "Hiç"],
+    "correct": 1,
+    "explanation": "Marie Curie, 1903'te Fizik ve 1911'de Kimya Nobel Ödülü kazanarak iki farklı dalda Nobel alan ilk ve tek kişi olmuştur."
+  },
+  {
+    "id": 21,
+    "category": "edebiyat",
+    "question": "'Saatleri Ayarlama Enstitüsü' romanının yazarı kimdir?",
+    "options": ["Peyami Safa", "Ahmet Hamdi Tanpınar", "Halit Ziya Uşaklıgil", "Reşat Nuri Güntekin"],
+    "correct": 1,
+    "explanation": "Saatleri Ayarlama Enstitüsü, Ahmet Hamdi Tanpınar'ın 1961'de yayımlanan, Doğu-Batı çatışmasını alegorik biçimde ele alan başyapıtıdır."
+  },
+  {
+    "id": 22,
+    "category": "edebiyat",
+    "question": "'Yüzyıllık Yalnızlık' romanını kim yazmıştır?",
+    "options": ["Pablo Neruda", "Jorge Luis Borges", "Gabriel García Márquez", "Isabel Allende"],
+    "correct": 2,
+    "explanation": "Yüzyıllık Yalnızlık, Gabriel García Márquez'in 1967'de yayımlanan ve büyülü gerçekçilik akımının en önemli eseri kabul edilen romanıdır."
+  },
+  {
+    "id": 23,
+    "category": "edebiyat",
+    "question": "'İnce Memed' romanının yazarı kimdir?",
+    "options": ["Yaşar Kemal", "Kemal Tahir", "Fakir Baykurt", "Orhan Kemal"],
+    "correct": 0,
+    "explanation": "İnce Memed, Yaşar Kemal'in 1955'te yayımlanan ve Çukurova'daki ağa zulmüne karşı eşkıyalığı anlatan ünlü romanıdır."
+  },
+  {
+    "id": 24,
+    "category": "edebiyat",
+    "question": "Shakespeare'in 'Hamlet' eserinde ünlü 'Olmak ya da olmamak' tiradını söyleyen karakter kimdir?",
+    "options": ["Ophelia", "Horatio", "Hamlet", "Claudius"],
+    "correct": 2,
+    "explanation": "Bu ünlü tirad, Prens Hamlet tarafından söylenir ve varoluşsal bir sorgulamayı ifade eder. Shakespeare'in en bilinen repliklerinden biridir."
+  },
+  {
+    "id": 25,
+    "category": "edebiyat",
+    "question": "'Çalıkuşu' romanını kim yazmıştır?",
+    "options": ["Halide Edib Adıvar", "Reşat Nuri Güntekin", "Yakup Kadri Karaosmanoğlu", "Aka Gündüz"],
+    "correct": 1,
+    "explanation": "Çalıkuşu, Reşat Nuri Güntekin'in 1922'de yayımlanan ve Anadolu'da öğretmenlik yapan Feride'nin hikayesini anlatan romanıdır."
+  },
+  {
+    "id": 26,
+    "category": "tarih",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+    "options": ["Ertuğrul Gazi", "Osman Bey", "Orhan Bey", "Sultan Murad"],
+    "correct": 1,
+    "explanation": "Osmanlı İmparatorluğu, 1299 yılında Osman Bey tarafından kurulmuştur. Devlet adını kurucusundan almıştır."
+  },
+  {
+    "id": 27,
+    "category": "tarih",
+    "question": "Birinci Dünya Savaşı'nı başlatan olay hangisidir?",
+    "options": ["Lusitania'nın batırılması", "Avusturya-Macaristan veliahtının suikaste uğraması", "Almanya'nın Polonya'yı işgali", "Rusya'da Bolşevik Devrimi"],
+    "correct": 1,
+    "explanation": "1914'te Avusturya-Macaristan Veliahtı Arşidük Franz Ferdinand'ın Saraybosna'da suikaste uğraması, zincirleme ittifak sistemiyle I. Dünya Savaşı'nı başlatmıştır."
+  },
+  {
+    "id": 28,
+    "category": "tarih",
+    "question": "Antik Mısır'da firavunların gömüldüğü anıtsal yapılara ne ad verilir?",
+    "options": ["Zigurat", "Piramit", "Akropol", "Koloseum"],
+    "correct": 1,
+    "explanation": "Piramitler, Antik Mısır firavunlarının mezar anıtlarıdır. Giza'daki Büyük Piramit, dünyanın yedi harikasından günümüze ulaşan tek yapıdır."
+  },
+  {
+    "id": 29,
+    "category": "tarih",
+    "question": "Kanuni Sultan Süleyman döneminde Osmanlı İmparatorluğu'nun sınırları nerelere kadar uzanmıştır?",
+    "options": ["Yalnızca Balkanlar", "Viyana kapılarına kadar", "Yalnızca Kuzey Afrika", "Yalnızca Orta Doğu"],
+    "correct": 1,
+    "explanation": "Kanuni Sultan Süleyman (1520-1566) döneminde Osmanlı en geniş sınırlarına ulaşmış, 1529'da Viyana kuşatılmıştır. Bu dönem Osmanlı'nın altın çağı kabul edilir."
+  },
+  {
+    "id": 30,
+    "category": "ekonomi",
+    "question": "Hiperenflasyon kavramı genellikle aylık yüzde kaçın üzerindeki enflasyonu ifade eder?",
+    "options": ["%10", "%25", "%50", "%100"],
+    "correct": 2,
+    "explanation": "Ekonomist Philip Cagan'ın tanımına göre hiperenflasyon, aylık %50'nin üzerindeki fiyat artışını ifade eder. Tarihte en bilinen örneği 1920'lerde Weimar Almanyası'dır."
+  },
+  {
+    "id": 31,
+    "category": "ekonomi",
+    "question": "Türkiye Cumhuriyet Merkez Bankası hangi yılda kurulmuştur?",
+    "options": ["1923", "1930", "1935", "1944"],
+    "correct": 1,
+    "explanation": "TCMB, 1930 yılında kurulmuştur. Temel görevi fiyat istikrarını sağlamak ve para politikasını yürütmektir."
+  },
+  {
+    "id": 32,
+    "category": "ekonomi",
+    "question": "Dünya Ticaret Örgütü'nün (DTÖ) merkezi hangi şehirdedir?",
+    "options": ["New York", "Brüksel", "Cenevre", "Londra"],
+    "correct": 2,
+    "explanation": "Dünya Ticaret Örgütü'nün merkezi İsviçre'nin Cenevre şehrindedir. DTÖ, 1995'te GATT'ın yerini alarak uluslararası ticaret kurallarını düzenlemektedir."
+  },
+  {
+    "id": 33,
+    "category": "teknoloji",
+    "question": "Bitcoin'in yaratıcısı olarak bilinen takma isim hangisidir?",
+    "options": ["Vitalik Buterin", "Satoshi Nakamoto", "Elon Musk", "Wei Dai"],
+    "correct": 1,
+    "explanation": "Bitcoin, 2008'de Satoshi Nakamoto takma adıyla yayımlanan bir makaleyle tanıtılmıştır. Gerçek kimliği hâlâ bilinmemektedir."
+  },
+  {
+    "id": 34,
+    "category": "teknoloji",
+    "question": "World Wide Web'i (www) icat eden kişi kimdir?",
+    "options": ["Vint Cerf", "Tim Berners-Lee", "Steve Jobs", "Bill Gates"],
+    "correct": 1,
+    "explanation": "Tim Berners-Lee, 1989'da CERN'de çalışırken World Wide Web'i icat etmiştir. İlk web sitesi 1991'de yayına girmiştir."
+  },
+  {
+    "id": 35,
+    "category": "teknoloji",
+    "question": "Blockchain teknolojisinde her bloğun içerdiği temel bileşen hangisidir?",
+    "options": ["Kullanıcı şifresi", "Bir önceki bloğun hash değeri", "IP adresi", "Banka hesap numarası"],
+    "correct": 1,
+    "explanation": "Blockchain'de her blok, bir önceki bloğun kriptografik hash değerini içerir. Bu yapı, verilerin değiştirilemezliğini ve güvenliğini sağlar."
+  },
+  {
+    "id": 36,
+    "category": "siyaset",
+    "question": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "options": ["29 Ekim 1923", "23 Nisan 1920", "19 Mayıs 1919", "30 Ağustos 1922"],
+    "correct": 1,
+    "explanation": "TBMM, 23 Nisan 1920'de Ankara'da açılmıştır. Bu tarih her yıl Ulusal Egemenlik ve Çocuk Bayramı olarak kutlanmaktadır."
+  },
+  {
+    "id": 37,
+    "category": "siyaset",
+    "question": "Uluslararası Ceza Mahkemesi'nin (UCM) merkezi hangi şehirdedir?",
+    "options": ["Cenevre", "New York", "Lahey", "Brüksel"],
+    "correct": 2,
+    "explanation": "Uluslararası Ceza Mahkemesi, Hollanda'nın Lahey şehrinde bulunmaktadır. 2002'de kurulan mahkeme, savaş suçları ve insanlığa karşı suçları yargılar."
+  },
+  {
+    "id": 38,
+    "category": "siyaset",
+    "question": "G20 (Yirmiler Grubu) hangi amaçla kurulmuştur?",
+    "options": ["Askeri ittifak", "Uluslararası ekonomik işbirliği", "Uzay araştırmaları", "Çevre koruma"],
+    "correct": 1,
+    "explanation": "G20, 1999'da küresel ekonomik istikrarı sağlamak amacıyla kurulmuştur. Dünya GSYİH'sinin yaklaşık %85'ini temsil eden 19 ülke ve AB'den oluşur."
+  },
+  {
+    "id": 39,
+    "category": "genel_kultur",
+    "question": "Olimpiyat Oyunları'nda en çok altın madalya kazanan sporcu kimdir?",
+    "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Larisa Latynina"],
+    "correct": 1,
+    "explanation": "Amerikalı yüzücü Michael Phelps, 23 altın madalya ile olimpiyat tarihinin en başarılı sporcusudur."
+  },
+  {
+    "id": 40,
+    "category": "genel_kultur",
+    "question": "'Guernica' tablosunun ressamı kimdir?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Claude Monet", "Vincent van Gogh"],
+    "correct": 1,
+    "explanation": "Guernica, Pablo Picasso'nun 1937'de İspanya İç Savaşı sırasında Guernica kasabasının bombalanmasını protesto etmek için yaptığı ünlü tablodur."
+  }
+]

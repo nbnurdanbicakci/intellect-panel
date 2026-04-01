@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "Sokrates",
+    "period": "MO 470-399",
+    "type": "filozof",
+    "summary": "Batili felsefenin kurucusu olarak kabul edilen Sokrates, bilgiye sorgulama yoluyla ulasmayi savunmustur. Kendisi hic bir eser yazmamis, fikirleri ogrencisi Platon araciligiyla gunumuze ulasmistir.",
+    "key_ideas": ["Sokratik yontem", "Kendini bilmek", "Sorgulanmamis hayat yasamaya degmez"],
+    "modern_relevance": "Elestirel dusunme ve sorgulama kulturu, modern egitim sistemlerinin temelini olusturmaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Socrates",
+    "famous_quote": "Bildigim tek sey, hicbir sey bilmedigimdir."
+  },
+  {
+    "id": 2,
+    "title": "Platon",
+    "period": "MO 428-348",
+    "type": "filozof",
+    "summary": "Sokrates'in ogrencisi olan Platon, idealar kuramini gelistirmis ve Bati felsefesinin en etkili dusunurlerinden biri olmustur. Akademia'yi kurarak sistematik felsefe egitiminin onculugunu yapmistir.",
+    "key_ideas": ["Idealar kurami", "Magarasi alegorisi", "Filozof kral"],
+    "modern_relevance": "Siyaset felsefesi, epistemoloji ve egitim teorisindeki gorusleri hala tartisila gelmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Plato",
+    "famous_quote": "Bilgelik, bilmediginizi bilmekle baslar."
+  },
+  {
+    "id": 3,
+    "title": "Aristoteles",
+    "period": "MO 384-322",
+    "type": "filozof",
+    "summary": "Platon'un ogrencisi olan Aristoteles, mantik, biyoloji, siyaset ve etik gibi pek cok alanda calisma yapmistir. Deneysel gozleme dayali bilimsel yontemi savunarak modern bilimin temellerini atmistir.",
+    "key_ideas": ["Altin orta yol", "Formel mantik", "Erdem etigi"],
+    "modern_relevance": "Mantik ve bilimsel yontem anlayisi, gunumuz bilim ve felsefe dusuncesinin temel taslarindandir.",
+    "source": "https://en.wikipedia.org/wiki/Aristotle",
+    "famous_quote": "Egitimin kokleri acidir, ama meyveleri tatlidir."
+  },
+  {
+    "id": 4,
+    "title": "Stoacilik",
+    "period": "MO 3. yuzyil - MS 3. yuzyil",
+    "type": "akim",
+    "summary": "Zenon tarafindan kurulan Stoacilik, insanin kontrolu disindaki olaylara karsi kayitsiz kalmasini ve erdeme dayali bir yasam surmesini ogutler. Marcus Aurelius, Seneca ve Epiktetos en bilinen temsilcileridir.",
+    "key_ideas": ["Icsel huzur", "Dogaya uygun yasam", "Kontrolumuz disindakini kabullenmek"],
+    "modern_relevance": "Modern psikoterapi, ozellikle bilissel davranisci terapi, Stoaciliktan buyuk olcude etkilenmistir.",
+    "source": "https://en.wikipedia.org/wiki/Stoicism",
+    "famous_quote": "Olaylari degil, olaylara bakis acimizi degistirebiliriz."
+  },
+  {
+    "id": 5,
+    "title": "Konfucyus",
+    "period": "MO 551-479",
+    "type": "filozof",
+    "summary": "Cin felsefesinin en etkili dusunuru olan Konfucyus, toplumsal uyum, ahlaki erdem ve aile degerlerini ogretisinin merkezine yerlestirmistir. Gorusleri Dogu Asya kulturlerini derinden etkilemistir.",
+    "key_ideas": ["Ren (insancilik)", "Li (torensel uygunluk)", "Ahlaki onculuk"],
+    "modern_relevance": "Konfucyuscu degerler, Dogu Asya'nin ekonomik ve toplumsal basarisinda onemli bir etken olarak gorulmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Confucius",
+    "famous_quote": "Nereye giderseniz gidin, tum kalbinizle gidin."
+  },
+  {
+    "id": 6,
+    "title": "Lao Tzu",
+    "period": "MO 6. yuzyil",
+    "type": "filozof",
+    "summary": "Taoculugun kurucusu kabul edilen Lao Tzu, dogayla uyum icinde yasamayi ve basitligi savunmustur. Tao Te Ching adli eseri, dunya felsefe literaturunun en cok okunan kitaplarindandir.",
+    "key_ideas": ["Tao (Yol)", "Wu Wei (eylemsizlik)", "Dogallik ve basitlik"],
+    "modern_relevance": "Minimalizm, cevreci dusunce ve farkindalik pratikleri uzerinde derin bir etkisi vardir.",
+    "source": "https://en.wikipedia.org/wiki/Laozi",
+    "famous_quote": "Bin millik yolculuk tek bir adimla baslar."
+  },
+  {
+    "id": 7,
+    "title": "Mevlana Celaleddin Rumi",
+    "period": "1207-1273",
+    "type": "filozof",
+    "summary": "Sufi geleneginin en buyuk sahsiyetlerinden biri olan Rumi, ask ve hosgoru temali siirleriyle taninan bir dusunur ve mutasavviftir. Mevlevi tarikatinin kurucusudur ve eserleri tum dunyada okunmaktadir.",
+    "key_ideas": ["Ilahi ask", "Hosgoru ve birlik", "Ic donusum"],
+    "modern_relevance": "Rumi'nin ask ve hosgoru mesajlari, kulturler arasi diyalog ve ruhani arayis alanlarinda hala ilham kaynagi olmaya devam etmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Rumi",
+    "famous_quote": "Yaradir isigin sana girdigi yer."
+  },
+  {
+    "id": 8,
+    "title": "Ibn-i Rushd (Averroes)",
+    "period": "1126-1198",
+    "type": "filozof",
+    "summary": "Endulus'lu filozof ve hekim Ibn-i Rushd, Aristoteles felsefesini Islam dunyasina tanitmis ve akil ile inanc arasindaki iliskiyi irdelemistir. Bati'da Averroes olarak bilinir ve Ortacag Avrupa dusuncesini derinden etkilemistir.",
+    "key_ideas": ["Akil ve iman uyumu", "Cift hakikat kurami", "Aristoteles yorumculugu"],
+    "modern_relevance": "Din ve bilim arasindaki diyalog tartismalarinda Ibn-i Rushd'un uzlastirmaci yaklasimi hala referans alinmaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Averroes",
+    "famous_quote": "Cehalet, korku ve bati inancina yol acar; korkuyu yenmek bilgiyle mumkundur."
+  },
+  {
+    "id": 9,
+    "title": "Voltaire",
+    "period": "1694-1778",
+    "type": "filozof",
+    "summary": "Aydinlanma caginin onde gelen dusunurlerinden Voltaire, ifade ozgurlugu, dini hosgoru ve akla dayali toplum duzeni icin mucadele etmistir. Keskin zekasi ve hicivleriyle taninir.",
+    "key_ideas": ["Ifade ozgurlugu", "Dini hosgoru", "Akla dayali toplum"],
+    "modern_relevance": "Ifade ozgurlugu ve laiklik tartismalarinda Voltaire'in gorusleri guncelligini korumaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Voltaire",
+    "famous_quote": "Soylediklerinize katilmiyorum ama soyleme hakkinizi olumune savunurum."
+  },
+  {
+    "id": 10,
+    "title": "Immanuel Kant",
+    "period": "1724-1804",
+    "type": "filozof",
+    "summary": "Modern felsefenin en etkili isimlerinden Kant, bilgi kurami ve ahlak felsefesinde devrim niteligi tasiyan eserler vermistir. Kategorik imperatif kavrami ile evrensel ahlak ilkelerini temellendirmeye calismistir.",
+    "key_ideas": ["Kategorik imperatif", "Saf aklin elestirisi", "Aydinlanma dusuncesi"],
+    "modern_relevance": "Insan haklari, demokrasi ve hukuk felsefesi alanlarinda Kant'in evrensel ahlak anlayisi hala temel referanstir.",
+    "source": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "famous_quote": "Aydinlanma, insanin kendi sucu ile dusmis oldugu ergin olmama durumundan kurtulusudur."
+  },
+  {
+    "id": 11,
+    "title": "Rene Descartes",
+    "period": "1596-1650",
+    "type": "filozof",
+    "summary": "Modern felsefenin babasi olarak bilinen Descartes, sistematik suphecilik yontemiyle bilginin temellerini sorgulamistir. Dusunce ile varolusu ozdeslesriren yaklasimi, felsefe tarihinde bir donum noktasi olmustur.",
+    "key_ideas": ["Metodik suphe", "Dusunuyorum, o halde varim", "Zihin-beden ikiciligi"],
+    "modern_relevance": "Bilincin dogasi, yapay zeka ve zihin felsefesi tartismalarinda Kartezyen dusunce hala merkezi bir rol oynamaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "famous_quote": "Dusunuyorum, o halde varim."
+  },
+  {
+    "id": 12,
+    "title": "Friedrich Nietzsche",
+    "period": "1844-1900",
+    "type": "filozof",
+    "summary": "Nietzsche, geleneksel ahlak degerlerini koklunden sorgulayan radikal bir dusunurdur. Ust-insan kavrami, guc istenci ve ebedi donus fikirleriyle 20. yuzyil felsefesini derinden etkilemistir.",
+    "key_ideas": ["Ust-insan", "Guc istenci", "Tanri oldu"],
+    "modern_relevance": "Bireysel ozgurlesme, nihilizm ve deger yaratma tartismalari Nietzsche'nin mirasi uzerinden surdurilmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "famous_quote": "Seni oldurmeyecek sey, seni guclendirir."
+  },
+  {
+    "id": 13,
+    "title": "Varolusculuk",
+    "period": "20. yuzyil",
+    "type": "akim",
+    "summary": "Sartre ve Camus gibi dusunurlerin onculuk ettigi varolusculuk, bireyin ozgur iradesiyle kendi anlamini yaratmasini savunur. Varolusu ozden once koyan bu akim, insanin radikal ozgurlugunu ve sorumlulugunu vurgular.",
+    "key_ideas": ["Varolus ozden once gelir", "Radikal ozgurluk", "Absurt ve baskaldiri"],
+    "modern_relevance": "Bireysellik, anlam arayisi ve otantik yasam konulari gunumuz populer kulturunde ve psikolojisinde genis yer bulmaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Existentialism",
+    "famous_quote": "Insan ozgur olmaya mahkumdur. - Sartre"
+  },
+  {
+    "id": 14,
+    "title": "Karl Marx",
+    "period": "1818-1883",
+    "type": "filozof",
+    "summary": "Marx, kapitalizmi sistematik olarak elestiren ve tarihsel materyalizmi gelistiren dusunurdur. Isci sinifinin kurtulusi ve sinifsal esitlik uzerine gorusleri 20. yuzyilin siyasi haritasini degistirmistir.",
+    "key_ideas": ["Tarihsel materyalizm", "Sinif mucadelesi", "Artik deger"],
+    "modern_relevance": "Gelir esitsizligi, isci haklari ve kapitalizm elestirisi tartismalarinda Marx'in analizleri guncelligini korumaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Karl_Marx",
+    "famous_quote": "Filozoflar dunyayi yalnizca cesitli bicimlerle yorumladilar; oysa sorun onu degistirmektir."
+  },
+  {
+    "id": 15,
+    "title": "Hannah Arendt",
+    "period": "1906-1975",
+    "type": "filozof",
+    "summary": "Siyaset filozofu Hannah Arendt, totalitarizm, kotuluk ve kamusal alan uzerine onemli calismalar yapmistir. Kotululugun siradanligi kavrami, Eichmann davasi gozlemlerinden dogmustur.",
+    "key_ideas": ["Kotululugun siradanligi", "Kamusal alan", "Totalitarizmin kokenleri"],
+    "modern_relevance": "Otoriter egilimler, sivil toplum ve siyasi katilim tartismalarinda Arendt'in analizleri temel referans olmaya devam etmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Hannah_Arendt",
+    "famous_quote": "Kimsenin dusunmedigi yerde en kotu seyleri yapanlar, dusunemeyenlerdir."
+  },
+  {
+    "id": 16,
+    "title": "Michel Foucault",
+    "period": "1926-1984",
+    "type": "filozof",
+    "summary": "Foucault, iktidar, bilgi ve toplumsal denetim mekanizmalari arasindaki iliskiyi irdeleyen Fransiz dusunurdur. Hapishaneler, akil hastaligi ve cinsellik uzerine calismalariyla modern dusunceyi derinden etkilemistir.",
+    "key_ideas": ["Iktidar-bilgi iliskisi", "Biyoiktidar", "Soyktuk yontemi"],
+    "modern_relevance": "Gozetim toplumlari, dijital gizlilik ve toplumsal normlar uzerine tartismalar Foucault'nun kavramsal cercevesinden yararlanmaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Michel_Foucault",
+    "famous_quote": "Iktidarin oldugu yerde direnis de vardir."
+  },
+  {
+    "id": 17,
+    "title": "Yapay Zeka Etigi",
+    "period": "21. yuzyil",
+    "type": "kavram",
+    "summary": "Yapay zeka teknolojilerinin hizla gelismesiyle birlikte ortaya cikan etik sorunlari inceleyen disiplinler arasi bir alandir. Algoritmik adalet, otonom karar verme ve yapay bilincia iliskin felsefi sorulari kapsar.",
+    "key_ideas": ["Algoritmik onyargi", "Otonom sistemlerin sorumlulugu", "Yapay bilinc sorunu"],
+    "modern_relevance": "Yapay zeka sistemlerinin gunluk hayatta yayginlasmasi, etik duzenlemeler ve felsefi tartismalari her gecen gun daha acil hale getirmektedir.",
+    "source": "https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence",
+    "famous_quote": "Teknoloji ahlaki acidan tarafsiz degildir; onu tasarlayanlarin degerlerini tasir."
+  }
+]

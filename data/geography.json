@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Kapadokya",
+    "region": "turkiye",
+    "summary": "Kapadokya, Nevsehir ilinde yer alan ve peri bacalari ile unlu essiz bir dogal olusumdur. Volkanik patlamalar ve erozyonun milyonlarca yillik etkisiyle sekillenmis bu bolgede, yeraltinda sehirler ve kayaya oyulmus kiliseler bulunur.",
+    "key_facts": ["Peri bacalari volkanik tuf kayaclarindan olusmaktadir", "Goreme Acik Hava Muzesi UNESCO Dunya Mirasi Listesi'ndedir", "Bolgede 36'dan fazla yeralti sehri kesfedilmistir"],
+    "source": "https://en.wikipedia.org/wiki/Cappadocia",
+    "fun_fact": "Kapadokya'da sicak hava balonu ile ucus, dunyanin en populer balonculuk deneyimlerinden biridir."
+  },
+  {
+    "id": 2,
+    "title": "Pamukkale",
+    "region": "turkiye",
+    "summary": "Pamukkale, Denizli ilinde bulunan ve beyaz travertenlerle kapli dogal bir harika olarak bilinir. Sicak su kaynaklarindan akan kalsiyum karbonatli sular, binlerce yildir bu beyaz teraslari olusturmustur.",
+    "key_facts": ["Travertenler yaklasik 2700 metre uzunlugunda ve 160 metre yuksekligindedir", "Antik Hierapolis sehri Pamukkale'nin hemen uzerinde kurulmustur", "UNESCO Dunya Mirasi Listesi'ne 1988 yilinda alinmistir"],
+    "source": "https://en.wikipedia.org/wiki/Pamukkale",
+    "fun_fact": "Pamukkale'nin Turkce anlami 'pamuk kalesi' olup, beyaz travertenlerin pamuk tarlalarina benzemesinden gelmektedir."
+  },
+  {
+    "id": 3,
+    "title": "Nemrut Dagi",
+    "region": "turkiye",
+    "summary": "Nemrut Dagi, Adiyaman ilinde 2.134 metre yuksekliginde yer alan ve devasa heykellerle unlu antik bir tumulus'tur. Kommagene Krali I. Antiokhos tarafindan MO 1. yuzyilda yaptirilmistir.",
+    "key_facts": ["Zirvede 8-10 metre yuksekliginde dev tanri heykelleri bulunur", "Gun dogumu ve gun batiminda heykeller essiz bir manzara sunar", "1987 yilinda UNESCO Dunya Mirasi Listesi'ne alinmistir"],
+    "source": "https://en.wikipedia.org/wiki/Mount_Nemrut",
+    "fun_fact": "Heykellerin baslarinin govdelerinden ayrilmis olmasi, depremler ve dogal erozyon sonucu gerceklesmistir."
+  },
+  {
+    "id": 4,
+    "title": "Efes Antik Kenti",
+    "region": "turkiye",
+    "summary": "Efes, Izmir'in Selcuk ilcesinde bulunan dunyanin en iyi korunmus antik kentlerinden biridir. Roma doneminde Asya Eyaleti'nin baskenti olan sehir, yaklasik 250.000 nufusa sahipti.",
+    "key_facts": ["Celsus Kutuphanesi dunyanin en guzel antik yapilarindan biridir", "Artemis Tapinagi dunyanin yedi harikasi arasinda sayilirdi", "Yilda 2 milyondan fazla turist ziyaret etmektedir"],
+    "source": "https://en.wikipedia.org/wiki/Ephesus",
+    "fun_fact": "Efes'teki buyuk tiyatro 25.000 seyirci kapasitesine sahip olup, hala akustik ozellikleriyle sasirtmaktadir."
+  },
+  {
+    "id": 5,
+    "title": "Van Golu",
+    "region": "turkiye",
+    "summary": "Van Golu, Turkiye'nin en buyuk golu ve dunyanin en buyuk sodali goludur. Dogu Anadolu Bolgesi'nde yer alan gol, yaklasik 3.755 kilometrekarelik bir alani kaplar.",
+    "key_facts": ["Golun suyu yuksek soda orani nedeniyle sabun gibi kaygandir", "Gol suyunun pH degeri yaklasik 10'dur", "Akdamar Adasi'nda 10. yuzyildan kalma bir Ermeni kilisesi bulunur"],
+    "source": "https://en.wikipedia.org/wiki/Lake_Van",
+    "fun_fact": "Van Golu'nde yasadigi iddia edilen efsanevi canavar, Iskocya'nin Loch Ness canavarina benzetilir."
+  },
+  {
+    "id": 6,
+    "title": "Istanbul Bogazi",
+    "region": "turkiye",
+    "summary": "Istanbul Bogazi, Asya ve Avrupa kitalarini ayiran ve Karadeniz'i Marmara Denizi'ne baglayan stratejik bir su yoludur. Yaklasik 30 kilometre uzunlugundaki bogaz, dunyanin en islek su yollarindan biridir.",
+    "key_facts": ["Gunluk ortalama 2.500 gemi gecis yapmaktadir", "Bogaz'in en dar yeri 700 metredir", "Alti ve ust akinti olmak uzere iki katmanli bir akintisin sistemi vardir"],
+    "source": "https://en.wikipedia.org/wiki/Bosphorus",
+    "fun_fact": "Istanbul Bogazi'nda yunus surulerinin yuzusunu gormek hala mumkundur."
+  },
+  {
+    "id": 7,
+    "title": "Karadeniz Yaylalari",
+    "region": "turkiye",
+    "summary": "Karadeniz Bolgesi'nin yaylalari, yemyesil doga, bulutlarin arasinda yukselen daglari ve geleneksel ahsap evleri ile unlundur. Ayder, Pokut ve Hazindak gibi yaylalar hem dogal guzellik hem de kulturel zenginlik sunar.",
+    "key_facts": ["Ayder Yaylasi 1350 metre yukseklikte yer alir", "Bolgede yillik yagis miktari 2000 mm'yi asar", "Karadeniz yaylalari endemik bitki turleri acisindan cok zengindir"],
+    "source": "https://en.wikipedia.org/wiki/Eastern_Black_Sea_Mountains",
+    "fun_fact": "Karadeniz yaylalarinda yapilan horon dansi, dunyanin en hizli halk danslarindan biri olarak kabul edilir."
+  },
+  {
+    "id": 8,
+    "title": "Gobekli Tepe",
+    "region": "turkiye",
+    "summary": "Gobekli Tepe, Sanliurfa'da bulunan ve yaklasik 12.000 yasinda olan dunyanin bilinen en eski tapinagindir. Bu kesif, insanlik tarihine dair bilinen kronolojik siralamamizi degistirmistir.",
+    "key_facts": ["Stonehenge'den yaklasik 6.000 yil daha eskidir", "T seklindeki taslar 6 metre yuksekligi ve 10 tonu bulabilmektedir", "2018 yilinda UNESCO Dunya Mirasi Listesi'ne alinmistir"],
+    "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+    "fun_fact": "Gobekli Tepe, tarim oncesi avci-toplayici topluluklarin bu kadar anitmsal yapilar insa edebildigini kanitlayan ilk yerdir."
+  },
+  {
+    "id": 9,
+    "title": "Truva Antik Kenti",
+    "region": "turkiye",
+    "summary": "Truva, Canakkale'de bulunan ve Homeros'un Ilyada destanina konu olan efsanevi antik kenttir. Arkeolojik kazilarda 9 farkli yerlsim katmani ortaya cikarilmistir.",
+    "key_facts": ["Heinrich Schliemann 1870'lerde kazilara baslamisdir", "En eski yerlsim katmani MO 3000 yilina kadar uzanir", "Truva Savaslari tahminen MO 1200 yillarinda gerceklesmistir"],
+    "source": "https://en.wikipedia.org/wiki/Troy",
+    "fun_fact": "Bugun Truva'da sergilenen buyuk tahta at, gercek Truva Ati'nin bir replikasi olarak turistlerin en cok fotografladigi noktadir."
+  },
+  {
+    "id": 10,
+    "title": "Sumela Manastiri",
+    "region": "turkiye",
+    "summary": "Sumela Manastiri, Trabzon'un Macka ilcesinde sarp bir kayaligin yamacina insa edilmis tarihi bir Rum Ortodoks manastiridir. Deniz seviyesinden yaklasik 1.200 metre yukseklikte yer alir.",
+    "key_facts": ["MS 386 yilinda kuruldugu tahmin edilmektedir", "Manastir icindeki freskler Bizans sanatinin onemli orneklerindendir", "Altindere Vadisi Milli Parki sinirlarinda yer almaktadir"],
+    "source": "https://en.wikipedia.org/wiki/S%C3%BCmela_Monastery",
+    "fun_fact": "Manastirin kayaliklara tutunmus gorunumu, onu dunyanin en dramatik konumlu dini yapilarindan biri yapmaktadir."
+  },
+  {
+    "id": 11,
+    "title": "Amazon Yagmur Ormanlari",
+    "region": "dunya",
+    "summary": "Amazon Yagmur Ormanlari, Guney Amerika'da 5,5 milyon kilometrekarelik bir alani kaplayan dunyanin en buyuk tropikal orman alandir. Gezegenin oksijen uretiminde kritik bir role sahiptir.",
+    "key_facts": ["Dunyadaki tum tropikal ormanlarin yarisini olusturur", "Yaklasik 390 milyar agac icerir", "Dunyadaki bilinen bitki ve hayvan turlerinin onda biri burada yasaR"],
+    "source": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+    "fun_fact": "Amazon Nehri o kadar genistir ki uzerinde tek bir kopru bile bulunmamaktadir."
+  },
+  {
+    "id": 12,
+    "title": "Buyuk Set Resifi",
+    "region": "dunya",
+    "summary": "Buyuk Set Resifi, Avustralya'nin kuzeydogu kiyisinda yer alan dunyanin en buyuk mercan resif sistemidir. Uzaydan ciiplak gozle gorulebilen tek canli yapidir.",
+    "key_facts": ["2.300 kilometreden fazla uzunluga sahiptir", "900'den fazla adadan olusmaktadir", "1.500'den fazla balik turu burada yasam alanl bulmaktadir"],
+    "source": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+    "fun_fact": "Buyuk Set Resifi, Avustralya'nin toplam karasal alaninin yaklasik onda biri kadar buyukluge sahiptir."
+  },
+  {
+    "id": 13,
+    "title": "Sahra Colu",
+    "region": "dunya",
+    "summary": "Sahra Colu, Afrika kitasinin kuzeyinde yaklasik 9,2 milyon kilometrekarelik alani kaplayan dunyanin en buyuk sicak coludur. ABD'nin toplam yuzolcumune yakin bir alana sahiptir.",
+    "key_facts": ["Sicaklik gunduz 50 dereceyi asabilir, gece sifirin altina dusebilir", "Sahra'nin sadece yuzde 25'i kum dunelerinden olusur", "Sahra alti buyuk yeraltisu kaynaklarina ev sahipligi yapar"],
+    "source": "https://en.wikipedia.org/wiki/Sahara",
+    "fun_fact": "Sahra Colu binlerce yil once yesil ve verimli bir aland olup, hipopotam ve timsah gibi hayvanlara ev sahipligi yapiyordu."
+  },
+  {
+    "id": 14,
+    "title": "Himalayalar",
+    "region": "dunya",
+    "summary": "Himalayalar, Asya'da yer alan ve dunyanin en yuksek dag silsilesi olan devasa bir siradaglardir. Everest Dagi da dahil olmak uzere 8.000 metrenin uzerindeki 14 zirvenin tamami burada bulunur.",
+    "key_facts": ["Everest Dagi 8.848,86 metre ile dunyanin en yuksek noktasidir", "Himalayalar hala yilda yaklasik 1 cm yukselmeye devam etmektedir", "Kutuplar disindaki en buyuk buz kutlesi Himalayalar'dadIr"],
+    "source": "https://en.wikipedia.org/wiki/Himalayas",
+    "fun_fact": "Himalaya kelimesi Sanskritce'de 'karin yurdu' anlamina gelmektedir."
+  },
+  {
+    "id": 15,
+    "title": "Galapagos Adalari",
+    "region": "dunya",
+    "summary": "Galapagos Adalari, Ekvador'a bagli olup Pasifik Okyanusu'nda yer alan volkanik bir takimadadir. Charles Darwin'in evrim teorisini gelistirmesinde buyuk rol oynamislardir.",
+    "key_facts": ["19 buyuk ve 100'den fazla kucuk adadan olusmaktadir", "Dev Galapagos kaplumbagalari 170 yildan fazla yasayabilir", "Adalarin yuzde 97'si milli park alanI olarak koruma altindadir"],
+    "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+    "fun_fact": "Galapagos deniz iguanalari dunyadaki tek okyanus yuzebilen kertenkele turudur."
+  },
+  {
+    "id": 16,
+    "title": "Buyuk Kanyon",
+    "region": "dunya",
+    "summary": "Buyuk Kanyon, ABD'nin Arizona eyaletinde Colorado Nehri'nin milyonlarca yillik erozyonu sonucu olusan devasa bir vaddir. Derinligi bazi yerlerde 1.800 metreyi asmaktadir.",
+    "key_facts": ["Yaklasik 446 kilometre uzunlugundadir", "Kanyonun dibindeki kayalar yaklasik 2 milyar yillikrdir", "Yilda 6 milyondan fazla ziyaretci cekmektedir"],
+    "source": "https://en.wikipedia.org/wiki/Grand_Canyon",
+    "fun_fact": "Buyuk Kanyon'un dibinde, dis dunyadan izole yasamaya devam eden Havasupai Kizilderili kabilesi bulunmaktadir."
+  },
+  {
+    "id": 17,
+    "title": "Antarktika",
+    "region": "dunya",
+    "summary": "Antarktika, Dunya'nin en guney noktasinda yer alan ve buzlarla kapli en soguk, en kuru ve en ruzgarli kitasidir. Dunyadaki tatlI su rezervlerinin yaklasik yuzde 70'ini barindirir.",
+    "key_facts": ["Olculen en dusuk sicaklik eksi 89,2 derece Celsius'tur", "Buz tabakasinin kalinligi ortalama 2,16 kilometredir", "Kalici insan nufusu bulunmamakta, sadece bilim insanlari ikamet etmektedir"],
+    "source": "https://en.wikipedia.org/wiki/Antarctica",
+    "fun_fact": "Antarktika'da hicbir ulkeye ait olmayan ve sadece bilimsel arastirmalara ayrIlmis bir baris bolgesi statusu vardir."
+  },
+  {
+    "id": 18,
+    "title": "Izlanda ve Jeotermal Kaynaklar",
+    "region": "dunya",
+    "summary": "Izlanda, Kuzey Atlantik'te yer alan volkanik bir ada ulkesidir ve dunyanin en aktif jeotermal bolgelerinden biridir. Ulkenin enerjisinin buyuk bolumu jeotermal ve hidroelektrik kaynaklardan elde edilir.",
+    "key_facts": ["Ulke enerjisinin yuzde 85'i yenilenebilir kaynaklardan saglanir", "30'dan fazla aktif volkanik sistem bulunmaktadir", "Mavi Lagoon dunyanin en unlu jeotermal kaplIcalarindan biridir"],
+    "source": "https://en.wikipedia.org/wiki/Iceland",
+    "fun_fact": "Izlanda'da jeotermal enerji ile kaldirimlarin alti isitilarak kardan arIndirilmaktadir."
+  },
+  {
+    "id": 19,
+    "title": "Mariana Cukuru",
+    "region": "dunya",
+    "summary": "Mariana Cukuru, Pasifik Okyanusu'nda yer alan dunyanin en derin noktasidir. Challenger Derinligi olarak bilinen en derin noktasi yaklasik 10.994 metre derinliktedir.",
+    "key_facts": ["Everest Dagi buraya konulsa bile zirvesi su yuzeyinin altinda kalirdi", "Cukurdaki su basinci deniz seviyesindekinin 1.000 katindan fazladir", "Bu derinliklerde bile yasam formlari kesfedilmistir"],
+    "source": "https://en.wikipedia.org/wiki/Mariana_Trench",
+    "fun_fact": "Mariana Cukuru'nun dibine ulasan insan sayisi, Ay'a ayak basan insan sayisindan azdir."
+  },
+  {
+    "id": 20,
+    "title": "Victoria Selalesi",
+    "region": "dunya",
+    "summary": "Victoria Selalesi, Afrika'da Zambiya ve Zimbabve sinirinda yer alan dunyanin en buyuk su perdesi olusturan selalesidir. Yerli halk tarafindan 'gok gurultusu yapan duman' anlaminda Mosi-oa-Tunya olarak adlandirilir.",
+    "key_facts": ["Genisligi 1.708 metre ve yuksekligi 108 metredir", "Dakikada 500 milyon litreden fazla su dokulur", "Su spreyi 2 kilometre oteden ve 30 kilometre uzaktan gorulebilir"],
+    "source": "https://en.wikipedia.org/wiki/Victoria_Falls",
+    "fun_fact": "Victoria Selalesi'nin kenarindaki 'Seytan Havuzu'nda kurak mevsimde yuzmek mumkundur ve bu, dunyanin en tehlikeli dogal havuzlarindan biri olarak kabul edilir."
+  }
+]

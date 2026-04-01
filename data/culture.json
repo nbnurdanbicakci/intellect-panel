@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Oscar Ödülleri",
+    "category": "etkinlik",
+    "summary": "1929'dan beri her yıl Amerikan Sinema Sanatları ve Bilimleri Akademisi tarafından verilen, dünyanın en prestijli sinema ödülleri.",
+    "key_facts": ["İlk Oscar töreni 1929'da yapıldı", "En çok Oscar kazanan film: Ben-Hur, Yüzüklerin Efendisi: Kralın Dönüşü ve Titanic (11'er Oscar)", "En çok Oscar kazanan kişi: Walt Disney (22 Oscar)"],
+    "fun_fact": "Oscar heykelciğinin resmi adı 'Akademi Liyakat Ödülü'dür. 'Oscar' takma adının nereden geldiği kesin bilinmemektedir."
+  },
+  {
+    "id": 2,
+    "title": "Olimpiyat Oyunları",
+    "category": "etkinlik",
+    "summary": "Antik Yunanistan'da MÖ 776'da başlayan, 1896'da modern formda yeniden canlandırılan dünyanın en büyük spor organizasyonu.",
+    "key_facts": ["Antik Olimpiyatlar 1000 yıldan fazla sürdü", "Modern Olimpiyatlar 1896'da Atina'da başladı", "2024 Paris Olimpiyatları'na 200'den fazla ülke katıldı"],
+    "fun_fact": "Antik Olimpiyatlar sırasında savaşlar durur, 'Olimpiyat Barışı' ilan edilirdi."
+  },
+  {
+    "id": 3,
+    "title": "Nobel Ödülleri",
+    "category": "etkinlik",
+    "summary": "Alfred Nobel'in vasiyetiyle 1901'den beri fizik, kimya, tıp, edebiyat ve barış alanlarında verilen dünyanın en prestijli ödülleri.",
+    "key_facts": ["Alfred Nobel dinamiti icat etmişti", "2023 ödül miktarı kişi başı 11 milyon İsveç Kronu", "En genç Nobel ödüllü: Malala Yusufzay (17 yaşında)"],
+    "fun_fact": "Alfred Nobel, bir gazetenin yanlışlıkla ölüm ilanını yayımlaması ve 'Ölüm Tüccarı Öldü' başlığını görmesi üzerine Nobel Ödüllerini kurma kararı almıştır."
+  },
+  {
+    "id": 4,
+    "title": "Rönesans",
+    "category": "donem",
+    "summary": "14-17. yüzyıllar arasında Avrupa'da yaşanan kültürel, sanatsal ve entelektüel yeniden doğuş hareketi. İtalya'da başlayıp tüm Avrupa'ya yayılmıştır.",
+    "key_facts": ["Floransa, Rönesans'ın merkezi kabul edilir", "Medici ailesi sanatın en büyük patronuydu", "Matbaanın icadı (1440) Rönesans'ı hızlandırdı"],
+    "fun_fact": "Rönesans kelimesi Fransızca 'renaissance' yani 'yeniden doğuş' anlamına gelir."
+  },
+  {
+    "id": 5,
+    "title": "Yedi Dünya Harikası",
+    "category": "genel_kultur",
+    "summary": "Antik dünyada MÖ 2. yüzyılda derlenen ve zamanının en muhteşem yapıları olarak kabul edilen yedi eser. Günümüzde yalnızca Giza Piramitleri ayaktadır.",
+    "key_facts": ["Giza Piramitleri - hala ayakta olan tek harika", "Babil'in Asma Bahçeleri - varlığı bile tartışmalı", "Rodos Heykeli - sadece 54 yıl ayakta kaldı"],
+    "fun_fact": "2007'de yapılan oylama ile 'Yeni 7 Harika' seçildi ve Türkiye'den Efes'teki Artemis Tapınağı aday gösterilmişti."
+  },
+  {
+    "id": 6,
+    "title": "Şampiyonlar Ligi",
+    "category": "spor",
+    "summary": "UEFA tarafından düzenlenen, Avrupa'nın en prestijli kulüpler arası futbol turnuvası. 1955'ten beri her yıl düzenlenmektedir.",
+    "key_facts": ["En çok kupayı Real Madrid kazandı (15 kupa)", "Türk takımlarından Galatasaray 2000'de UEFA Kupası kazandı", "Final maçı dünyada 400 milyon kişi tarafından izlenir"],
+    "fun_fact": "Şampiyonlar Ligi müziği, Handel'in 'Zadok the Priest' eserinden uyarlanmıştır ve üç dilde (İngilizce, Fransızca, Almanca) söylenir."
+  },
+  {
+    "id": 7,
+    "title": "Dünya Kupası (FIFA)",
+    "category": "spor",
+    "summary": "Dört yılda bir düzenlenen, dünyanın en çok izlenen spor etkinliği. İlk turnuva 1930'da Uruguay'da yapılmıştır.",
+    "key_facts": ["En çok kupayı Brezilya kazandı (5 kupa)", "2022 Katar finali 1.5 milyardan fazla izleyiciye ulaştı", "2026 Dünya Kupası ABD, Kanada ve Meksika'da yapılacak"],
+    "fun_fact": "Jules Rimet kupası İkinci Dünya Savaşı sırasında bir FIFA yetkilisinin ayakkabı kutusunda saklanarak kurtarılmıştır."
+  },
+  {
+    "id": 8,
+    "title": "Cannes Film Festivali",
+    "category": "etkinlik",
+    "summary": "1946'dan beri Fransa'nın Cannes şehrinde düzenlenen dünyanın en prestijli film festivali. En büyük ödülü Altın Palmiye'dir.",
+    "key_facts": ["Nuri Bilge Ceylan 2014'te 'Kış Uykusu' ile Altın Palmiye kazandı", "Festival 12 gün sürer", "Her yıl yaklaşık 200.000 kişi katılır"],
+    "fun_fact": "Cannes Film Festivali aslında Mussolini'nin Venedik Film Festivali'ne alternatif olarak kurulmuştur."
+  },
+  {
+    "id": 9,
+    "title": "Antik Yunan Felsefesi",
+    "category": "genel_kultur",
+    "summary": "Batı felsefesinin temeli olan Antik Yunan düşüncesi: Sokrates'in sorgulama yöntemi, Platon'un idealar dünyası ve Aristoteles'in mantık sistemi.",
+    "key_facts": ["Sokrates hiçbir şey yazmadı, bilgilerimiz öğrencisi Platon'dan", "Platon'un Akademia'sı tarihin ilk üniversitesi", "Aristoteles, Büyük İskender'in hocasıydı"],
+    "fun_fact": "Sokrates'in 'Bildiğim tek şey hiçbir şey bilmediğimdir' sözü, aslında Platon'un aktarımıdır ve Sokrates'in bunu tam olarak söyleyip söylemediği bilinmez."
+  },
+  {
+    "id": 10,
+    "title": "Formula 1",
+    "category": "spor",
+    "summary": "Dünyanın en prestijli otomobil yarışı serisi. 1950'den beri düzenlenmektedir. Teknoloji, mühendislik ve pilotluk becerisinin zirvesidir.",
+    "key_facts": ["En başarılı pilot: Lewis Hamilton ve Michael Schumacher (7'şer şampiyonluk)", "Bir F1 aracı 5 saniyede 200 km/h hıza ulaşır", "İstanbul Park pisti 2020-2021'de takvime döndü"],
+    "fun_fact": "F1 araçlarındaki teknolojilerin birçoğu (karbon fiber, enerji geri kazanımı) sonradan normal otomobillere uygulanmıştır."
+  },
+  {
+    "id": 11,
+    "title": "Grammy Ödülleri",
+    "category": "etkinlik",
+    "summary": "1959'dan beri Amerikan Kayıt Sanatları ve Bilimleri Akademisi tarafından verilen, müzik dünyasının en prestijli ödülleri.",
+    "key_facts": ["İlk Grammy töreni 1959'da Los Angeles'ta yapıldı", "En çok Grammy kazanan sanatçı: Beyoncé (32 Grammy)", "Yılın Albümü, Yılın Kaydı ve Yılın Şarkısı en önemli üç kategoridir"],
+    "fun_fact": "Grammy heykelciği altın kaplama bir gramofondur ve adını da bu grammophone kelimesinden almıştır."
+  },
+  {
+    "id": 12,
+    "title": "Wimbledon",
+    "category": "spor",
+    "summary": "1877'den beri İngiltere'nin Londra şehrinde düzenlenen dünyanın en eski ve en prestijli tenis turnuvası. Dört Grand Slam turnuvasından biridir.",
+    "key_facts": ["Dünyanın en eski tenis turnuvasıdır (1877)", "Çim kort üzerinde oynanan tek Grand Slam turnuvasıdır", "Oyuncuların beyaz kıyafet giymesi zorunludur"],
+    "fun_fact": "Wimbledon'da her yıl yaklaşık 28.000 kg çilek ve 7.000 litre krema tüketilir. Çilek ve krema turnuvanın geleneksel atıştırmalığıdır."
+  },
+  {
+    "id": 13,
+    "title": "Venedik Film Festivali",
+    "category": "etkinlik",
+    "summary": "1932'den beri İtalya'nın Venedik şehrinde düzenlenen dünyanın en eski film festivali. En büyük ödülü Altın Aslan'dır.",
+    "key_facts": ["1932'de kurulan dünyanın en eski film festivalidir", "En büyük ödülü Altın Aslan (Leone d'Oro)", "Venedik Bienali'nin bir parçası olarak düzenlenir"],
+    "fun_fact": "Festival, Lido adasında düzenlenir ve Cannes Film Festivali aslında Venedik'e rakip olarak kurulmuştur."
+  },
+  {
+    "id": 14,
+    "title": "Rönesans Sanatı",
+    "category": "genel_kultur",
+    "summary": "15. ve 16. yüzyıllarda İtalya merkezli gelişen, perspektif ve insan anatomisini ön plana çıkaran sanat akımı. Michelangelo ve Raphael en önemli temsilcilerindendir.",
+    "key_facts": ["Michelangelo, Sistine Şapeli tavanını 4 yılda boyadı (1508-1512)", "Raphael'in 'Atina Okulu' fresk'i Rönesans'ın simgesidir", "Leonardo da Vinci hem sanatçı hem bilim insanı hem de mucitti"],
+    "fun_fact": "Michelangelo, Sistine Şapeli tavanını boyarken sırt üstü değil, ayakta başını yukarı kaldırarak çalışmıştır. Bu pozisyon yüzünden boyun ağrılarından şikayet eden şiirler yazmıştır."
+  },
+  {
+    "id": 15,
+    "title": "Türk Mutfağı",
+    "category": "genel_kultur",
+    "summary": "UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan, Orta Asya'dan Anadolu'ya uzanan binlerce yıllık zengin bir mutfak geleneği.",
+    "key_facts": ["UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alır", "Türk mutfağı Fransız ve Çin mutfağıyla birlikte dünyanın en önemli üç mutfağından biri sayılır", "Kebap çeşitleri, baklava, manti ve zeytinyağlılar en bilinen lezzetlerdendir"],
+    "fun_fact": "Osmanlı sarayında yüzlerce aşçı çalışır ve her aşçı sadece tek bir yemekte uzmanlaşırdı. Pilav yapan aşçı başka yemek yapmazdı."
+  },
+  {
+    "id": 16,
+    "title": "Eurovision Şarkı Yarışması",
+    "category": "etkinlik",
+    "summary": "1956'dan beri her yıl düzenlenen Avrupa'nın en büyük müzik yarışması. Avrupa Yayın Birliği (EBU) tarafından organize edilir.",
+    "key_facts": ["İlk Eurovision 1956'da İsviçre'de yapıldı", "En çok kazanan ülke: İsveç ve İrlanda (7'şer kez)", "Türkiye 2003'te Sertab Erener ile 'Everyway That I Can' şarkısıyla birinci oldu"],
+    "fun_fact": "ABBA grubu 1974 Eurovision'unu 'Waterloo' şarkısıyla kazanarak dünya çapında ünlü olmuştur. Eurovision tarihinin en başarılı çıkışıdır."
+  },
+  {
+    "id": 17,
+    "title": "NBA",
+    "category": "spor",
+    "summary": "1946'da kurulan Kuzey Amerika'nın en üst düzey profesyonel basketbol ligi. Dünyaca ünlü basketbolcuların yarıştığı, küresel çapta izlenen bir spor organizasyonudur.",
+    "key_facts": ["30 takımdan oluşur (29 ABD, 1 Kanada)", "Michael Jordan 6 kez şampiyon olmuştur", "Hidayet Türkoğlu ve Mehmet Okur NBA'de forma giyen Türk oyunculardandır"],
+    "fun_fact": "NBA'in ilk maçında kullanılan basket topu aslında futbol topuydu. Basketbol topu daha sonra özel olarak tasarlanmıştır."
+  },
+  {
+    "id": 18,
+    "title": "Türk Sineması",
+    "category": "genel_kultur",
+    "summary": "Yeşilçam döneminden uluslararası ödüllü yönetmenlere uzanan zengin bir sinema geleneği. Nuri Bilge Ceylan ve Yılmaz Güney dünya çapında tanınan en önemli temsilcileridir.",
+    "key_facts": ["Yılmaz Güney 'Yol' filmiyle 1982'de Cannes'da Altın Palmiye kazandı", "Nuri Bilge Ceylan 'Kış Uykusu' ile 2014'te Altın Palmiye kazandı", "Yeşilçam dönemi (1950-1980) Türk sinemasının altın çağı olarak kabul edilir"],
+    "fun_fact": "Yılmaz Güney, 'Yol' filmini cezaevindeyken yönetmiş ve talimatlarını dışarıdaki yardımcı yönetmenine göndererek filmi tamamlamıştır."
+  }
+]

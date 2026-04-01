@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": "1503-1519",
+    "type": "resim",
+    "summary": "Dunyanin en unlu tablosu olarak kabul edilen bu portre, Lisa Gherardini'yi tasvir eder. Esrarengiz golumsemesi ve sfumato teknigi ile sanat tarihinin en cok tartisilmis eserlerinden biridir.",
+    "why_important": "Ronesans doneminin en buyuk basarilarindan biri olup, portre sanatinda devrim yaratmistir. Louvre Muzesi'nin en cok ziyaret edilen eseridir.",
+    "source": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "fun_fact": "Tablo 1911 yilinda Louvre'dan calinmis ve iki yil sonra Italya'da bulunmustur. Bu olay tabloyu daha da unlu yapmistir."
+  },
+  {
+    "id": 2,
+    "title": "Yildizli Gece",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "type": "resim",
+    "summary": "Van Gogh'un Saint-Remy-de-Provence'daki akil hastanesinde kalirken yaptigi bu eser, gece gokyuzunu dramatik girdaplarla tasvir eder. Post-empresyonizmin en ikonik eserlerinden biridir.",
+    "why_important": "Modern sanatin temellerini atan eserlerden biri olarak kabul edilir. Van Gogh'un ic dunya ile dis dunyayi birlestirme becerisi bu tabloda doruk noktasina ulasmistir.",
+    "source": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "fun_fact": "Van Gogh bu tabloyu yasaminda basarisiz sayiyordu. Bugun New York Modern Sanat Muzesi'nde (MoMA) sergilenmektedir."
+  },
+  {
+    "id": 3,
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": "1937",
+    "type": "resim",
+    "summary": "Ispanya Ic Savasi sirasinda Guernica kasabasinin bombalanmasini konu alan bu dev boyutlu tablo, savas karsiti sanatin en guclu orneklerinden biridir. Siyah, beyaz ve gri tonlarinda yapilmistir.",
+    "why_important": "Sanatin politik bir protesto araci olarak kullanilmasinin en etkili orneklerinden biridir. Savas ve siddetin evrensel bir elestirisi olarak guncelligini korumaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+    "fun_fact": "Picasso, Nazi subayinin 'Bunu siz mi yaptiniz?' sorusuna 'Hayir, siz yaptiniz' diye cevap verdigi soylenir."
+  },
+  {
+    "id": 4,
+    "title": "Ciglik",
+    "artist": "Edvard Munch",
+    "year": "1893",
+    "type": "resim",
+    "summary": "Bir kopru uzerinde ellerini yuzune goturerek cigan bir figuru tasvir eden bu eser, modern insanin kaygi ve varolussel korkusunu simgeler. Ekspresyonizmin en taninmis eseridir.",
+    "why_important": "Modern sanatta duygusal ifadenin on plana cikmasinda onemli bir rol oynamistr. Pop kulturde en cok referans verilen sanat eserlerinden biridir.",
+    "source": "https://en.wikipedia.org/wiki/The_Scream",
+    "fun_fact": "Eserin dort farkli versiyonu vardir: iki tablo ve iki pastel. 2012'de pastel versiyonlarindan biri 120 milyon dolara satilarak rekor kirmistir."
+  },
+  {
+    "id": 5,
+    "title": "Inci Kupeli Kiz",
+    "artist": "Johannes Vermeer",
+    "year": "1665",
+    "type": "resim",
+    "summary": "Hollandali usta Vermeer'in bu tablosu, turbanli ve inci kupeli genc bir kizi tasvir eder. Isik kullanimi ve figurdeki gizemli ifade ile dikkat ceker.",
+    "why_important": "'Kuzey'in Mona Lisa'si' olarak anilan bu eser, Hollanda Altin Cagi resminin en onemli orneklerinden biridir. Isik ve renk kullanimi ile sanat tarihinde ozel bir yere sahiptir.",
+    "source": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "fun_fact": "Tablodaki incinin gercek olup olmadigi hala tartisma konusudur. Bazi uzmanlar bunun inci degil, cilali kalay olabilecegini one surmektedir."
+  },
+  {
+    "id": 6,
+    "title": "Empresyonizm",
+    "artist": "",
+    "year": "1860-1886",
+    "type": "akim",
+    "summary": "19. yuzyilin ikinci yarisinda Fransa'da ortaya cikan bu sanat akimi, isik ve rengin anlik etkilerini yakalamaya odaklanir. Monet, Renoir ve Degas gibi sanatcilar bu akimin onculeridir.",
+    "why_important": "Akademik sanat geleneklerini yikarak modern sanatin onunu acmistir. Ac havada resim yapma gelenegini baslatan bu akim, sanatin dogaya bakis acisini koklunden degistirmistir.",
+    "source": "https://en.wikipedia.org/wiki/Impressionism",
+    "fun_fact": "Akimin adi, Monet'nin 'Izlenim: Gun Dogumu' tablosundan gelir. Bu isim baslangicta elestirmenler tarafindan alay amacli kullanilmisti."
+  },
+  {
+    "id": 7,
+    "title": "Kubizm",
+    "artist": "",
+    "year": "1907-1920",
+    "type": "akim",
+    "summary": "Picasso ve Braque tarafindan gelistirilen bu akim, nesneleri geometrik bicimlere ayirarak ayni anda birden fazla aciyla gosterir. 20. yuzyil sanatinin en devrimci akimlarindan biridir.",
+    "why_important": "Perspektif ve gercekcilik kavramlarini koklunden sorgulamistir. Soyut sanatin gelismesinde kritik bir basamak olmustur.",
+    "source": "https://en.wikipedia.org/wiki/Cubism",
+    "fun_fact": "Kubizm adini, elestirmen Louis Vauxcelles'in Braque'in tablolarindaki geometrik bicimleri 'kup' olarak nitelendirmesinden almistir."
+  },
+  {
+    "id": 8,
+    "title": "Surrealizm",
+    "artist": "",
+    "year": "1920-1960",
+    "type": "akim",
+    "summary": "Bilinaiti ve ruya dunyasini kesfetmeyi amaclayan bu akim, mantik disi ve fantastik goruntuleri bir araya getirir. Salvador Dali, Rene Magritte ve Max Ernst bu akimin onde gelen temsilcileridir.",
+    "why_important": "Sanatin sadece gercekligi degil, insan zihninin derinliklerini de yansitabilecegini gostermistir. Reklam, sinema ve edebiyat uzerinde kalici etkiler birakmistir.",
+    "source": "https://en.wikipedia.org/wiki/Surrealism",
+    "fun_fact": "Surrealistler, yaraticilik icin 'otomatik yazim' ve 'ruya kaydi' gibi teknikler kullanmislardir. Dali, yaratici fikirler icin uykuya dalmadan onceki ani yakalamaya calisirdi."
+  },
+  {
+    "id": 9,
+    "title": "Pop Art",
+    "artist": "",
+    "year": "1950-1970",
+    "type": "akim",
+    "summary": "Populer kultur, reklam ve tuketim toplumunun imgelerini sanata tasiyan bu akim, Andy Warhol ve Roy Lichtenstein gibi sanatcilarla ozdeslesir. Yuksek sanat ile populer kultur arasindaki siniri bulaniklastirmistir.",
+    "why_important": "Sanatin elitist yapisini sorgulayarak herkes icin erisilebilir bir sanat anlayisi ortaya koymustur. Gunumuz gorsel kulturunun temellerini atmistir.",
+    "source": "https://en.wikipedia.org/wiki/Pop_art",
+    "fun_fact": "Andy Warhol'un Campbell's Corba Kutulari tablosu, ilk sergilediginde elestirmenler tarafindan sanat olarak kabul edilmemisti."
+  },
+  {
+    "id": 10,
+    "title": "Ronesans",
+    "artist": "",
+    "year": "1400-1600",
+    "type": "akim",
+    "summary": "Italya'da baslayan bu kultur ve sanat hareketi, Antik Yunan ve Roma ideallerinin yeniden kesfedilmesini esas alir. Leonardo da Vinci, Michelangelo ve Raffaello bu donemin en buyuk ustalaridir.",
+    "why_important": "Orta Cag'in karanlik doneminden cikisi simgeleyerek Bati medeniyetinin gelisiminde donm noktasi olmustur. Sanat, bilim ve felsefede buyuk ilerlemelere yol acmistir.",
+    "source": "https://en.wikipedia.org/wiki/Renaissance",
+    "fun_fact": "Ronesans kelimesi Fransizca 'yeniden dogus' anlamina gelir. Floransa sehri, zengin Medici ailesinin hamiligi sayesinde bu hareketin merkezi olmustur."
+  },
+  {
+    "id": 11,
+    "title": "Davud Heykeli",
+    "artist": "Michelangelo",
+    "year": "1501-1504",
+    "type": "heykel",
+    "summary": "5.17 metre yuksekligindeki bu mermer heykel, Tevrat'taki Davud'u Golyat ile savas oncesinde tasvir eder. Insan anatomisinin en kusursuz yorumlarindan biri olarak kabul edilir.",
+    "why_important": "Ronesans heykel sanatinin doruk noktasi olarak gorulur. Insan bedeninin idealize edilmis tasviri, yuzyillar boyunca sanatcilara ilham vermistir.",
+    "source": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+    "fun_fact": "Heykel, tek bir mermer blokundan yontulmustur. Bu mermer blogu daha once iki farkli heykeltrasa verilmis ancak ikisi de basaramamisti."
+  },
+  {
+    "id": 12,
+    "title": "Dusunceli Adam (Dusunur)",
+    "artist": "Auguste Rodin",
+    "year": "1904",
+    "type": "heykel",
+    "summary": "Elini cenese dayamis, derin dusunceye dalmis bir erkek figurunu tasvir eden bu bronz heykel, felsefe ve entelektuel dusuncenin evrensel sembollerinden biri haline gelmistir.",
+    "why_important": "Modern heykel sanatinin en taninmis eseridir. Dusunce ve felsefenin gorsel bir simgesi olarak kulturel oneme sahiptir.",
+    "source": "https://en.wikipedia.org/wiki/The_Thinker",
+    "fun_fact": "Heykel aslinda Rodin'in 'Cehennem Kapilari' adli buyuk projesinin bir parcasi olarak tasarlanmisti. Dante'yi tasvir ettigi dusunulmektedir."
+  },
+  {
+    "id": 13,
+    "title": "Venus de Milo (Milos Afroditi)",
+    "artist": "",
+    "year": "MO 130-100",
+    "type": "heykel",
+    "summary": "Antik Yunan'dan kalma bu mermer heykel, ask tanricasi Afrodit'i tasvir eder. Kollarinin eksik olmasi, heykele gizemli bir guzellik katmistir.",
+    "why_important": "Antik Yunan sanatinin en iyi korunmus ve en unlu orneklerinden biridir. Klasik guzellik idealinin simgesi olarak sanat tarihinde ozel bir yere sahiptir.",
+    "source": "https://en.wikipedia.org/wiki/Venus_de_Milo",
+    "fun_fact": "Heykel 1820 yilinda Milos Adasi'nda bir ciftci tarafindan bulunmustur. Kollarinin nasil kirildigina dair bircok teori vardir ancak kesin bilgi yoktur."
+  },
+  {
+    "id": 14,
+    "title": "Sagrada Familia",
+    "artist": "Antoni Gaudi",
+    "year": "1882-devam ediyor",
+    "type": "mimari",
+    "summary": "Barselona'daki bu dev bazilika, Katalan mimar Gaudi'nin baseseridir. Dogadan esinlenen organik formlari ve benzersiz mimarisi ile dunya mimarisinin en ozgun yapilarindan biridir.",
+    "why_important": "Art Nouveau ve gotik mimarinin benzersiz bir sentezini sunar. 140 yili askin suredir devam eden insaati, insanligin en uzun sureli yapi projelerinden biridir.",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "fun_fact": "Gaudi, hayatinin son 15 yilini tamamen bu projeye adamisti. Insaat hala tamamlanmamis olup 2026 yilinda bitirilmesi planlanmaktadir."
+  },
+  {
+    "id": 15,
+    "title": "Tac Mahal",
+    "artist": "Ustad Ahmad Lahauri",
+    "year": "1632-1653",
+    "type": "mimari",
+    "summary": "Hindistan'in Agra sehrinde bulunan bu beyaz mermer turbe, Babur Imparatoru Sah Cihan tarafindan esi Mumtaz Mahal icin yaptirilmistir. Dunyanin yeni yedi harikalarindan biridir.",
+    "why_important": "Islam mimarisinin en gorkemli orneklerinden biri olarak kabul edilir. Ask ve baglilik sembollerinden biri olarak evrensel bir oneme sahiptir.",
+    "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "fun_fact": "Yaklasik 20.000 iscinin 20 yildan fazla calismasiyla tamamlanan yapinin insaatinda 1.000'den fazla fil kullanilmistir."
+  },
+  {
+    "id": 16,
+    "title": "Selimiye Camii",
+    "artist": "Mimar Sinan",
+    "year": "1568-1575",
+    "type": "mimari",
+    "summary": "Edirne'de bulunan bu cami, Mimar Sinan'in 'ustalik eseri' olarak nitelendirdigi yapidir. 31.28 metrelik kubbesi ve zarif minareleri ile Osmanli mimarisinin zirvesini temsil eder.",
+    "why_important": "Osmanli mimarisinin en buyuk basarisi ve Mimar Sinan'in en olgun eseri olarak kabul edilir. UNESCO Dunya Mirasi Listesi'nde yer almaktadir.",
+    "source": "https://en.wikipedia.org/wiki/Selimiye_Mosque",
+    "fun_fact": "Mimar Sinan bu camiyi 80 yasindan sonra insa etmistir. Kubbesi, Ayasofya'nin kubbesinden daha genis olup Sinan'in buyuk rakibini gecme hayalinin gerceklesmesidir."
+  },
+  {
+    "id": 17,
+    "title": "Turk Minyatur Sanati",
+    "artist": "",
+    "year": "13.-19. yuzyil",
+    "type": "resim",
+    "summary": "Osmanli ve Selcuklu donemlerinde gelisen bu geleneksel resim sanati, kucuk boyutlu detayli tasvirler icin kullanilirdi. El yazmalari, divan siiri kitaplari ve tarihi kronikler minyaturlerle suslenirdi.",
+    "why_important": "Osmanli kulturel mirasinin en degerli unsurlarindan biridir. Perspektif kullanmayan kendine ozgu uslup, Bati sanatindan bagimsiz bir gorsel gelenek olusturmustur.",
+    "source": "https://en.wikipedia.org/wiki/Ottoman_miniature",
+    "fun_fact": "Minyatur sanatcilarinin gozlerini korumak icin ozel isiklandirma teknikleri kullanildigi bilinmektedir. Nakkas olarak adlandirilan bu sanatcilar sarayda ozel atolyelerde calisirdi."
+  },
+  {
+    "id": 18,
+    "title": "Ebru Sanati",
+    "artist": "",
+    "year": "15. yuzyildan gunumuze",
+    "type": "resim",
+    "summary": "Su yuzeyinde olusturulan desenlerin kagida aktarilmasiyla yapilan bu geleneksel Turk sanati, benzersiz ve tekrarlanamaz desenler olusturur. 2014 yilinda UNESCO Somut Olmayan Kulturel Miras Listesi'ne alinmistir.",
+    "why_important": "Turkiye'nin dunya kulturune kazandirdigi en ozgun sanat dallarindan biridir. Her eser tekrarlanamaz olmasi nedeniyle benzersiz bir deger tasir.",
+    "source": "https://en.wikipedia.org/wiki/Paper_marbling",
+    "fun_fact": "Ebru kelimesinin Farsca 'bulut' veya 'bulutumsu' anlamina gelen 'ebr' kelimesinden turedigi dusunulmektedir. Su uzerindeki desenlerin bulutlara benzemesi bu isimlendirmenin sebebidir."
+  },
+  {
+    "id": 19,
+    "title": "Kaplumbaga Terbiyecisi",
+    "artist": "Osman Hamdi Bey",
+    "year": "1906",
+    "type": "resim",
+    "summary": "Turk resminin en unlu eseri olan bu tablo, Osmanli kiyafetli bir adamin kaplumbagalari egitmeye calismasini tasvir eder. Osmanli toplumundaki degisime ve modernlesmeye atifta bulunan sembolik bir eserdir.",
+    "why_important": "Turk resim sanatinin en degerli ve en pahali eseridir. Osmanli donemi Turk sanatinin Bati teknikleriyle bulusmasinin en guzel orneklerinden biridir.",
+    "source": "https://en.wikipedia.org/wiki/The_Tortoise_Trainer",
+    "fun_fact": "Tablo 2004 yilinda 3.5 milyon dolara satilarak Turk resim tarihinin en pahali eseri olmustur. Kaplumbagalarin yavas ilerlemesi, Osmanli'nin yavas modernlesmesinin metaforu olarak yorumlanir."
+  },
+  {
+    "id": 20,
+    "title": "Buyuk Dalga (Kanagawa Aciklardinda Buyuk Dalga)",
+    "artist": "Katsushika Hokusai",
+    "year": "1831",
+    "type": "resim",
+    "summary": "Japon ukiyo-e sanatinin en taninmis eseri olan bu ahsap baski, dev bir dalganin altinda kucuk tekneleri ve uzakta Fuji Dagi'ni gosterir. Dogu ve Bati sanatini birlestiren ikonik bir eserdir.",
+    "why_important": "Empresyonistler uzerinde buyuk etki yaratarak Dogu-Bati sanat etkilesiminin sembollerinden biri olmustur. Dunyanin en cok tanilan sanat eserlerinden biridir.",
+    "source": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+    "fun_fact": "Hokusai bu eseri yaptiginda 70 yasindaydi. 'Otuz Alti Fuji Manzarasi' serisinin bir parcasi olan bu baski, aslinda serideki en unlu eser haline gelmistir."
+  }
+]
